@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Wed Dec 13 15:19:32 IST 2017
+7.path=lib/armeabi-v7a/libgpuimage-library.so
+2.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+5.set=NATIVE_RESOURCE
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=lib/mips64/libgpuimage-library.so
+4.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/x86_64/libgpuimage-library.so
+5.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+4.set=NATIVE_RESOURCE
+3.path=lib/mips/libgpuimage-library.so
+6.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/arm64-v8a/libgpuimage-library.so
+7.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/armeabi/libgpuimage-library.so
+0.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/x86/libgpuimage-library.so
+1.base=D\:\\MovieFlix\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\1
+4.baseType=DIRECTORY
+0.set=DEX
