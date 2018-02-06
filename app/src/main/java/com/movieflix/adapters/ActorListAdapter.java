@@ -18,7 +18,7 @@ import com.movieflix.utils.UrlUtils;
 import java.util.ArrayList;
 
 /**
- * Created by Asus on 12/1/2017.
+ * Created by rahul-asus on 12/1/2017.
  */
 
 public class ActorListAdapter extends BaseAdapter {
