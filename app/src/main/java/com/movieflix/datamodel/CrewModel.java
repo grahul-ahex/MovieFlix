@@ -1,7 +1,7 @@
 package com.movieflix.datamodel;
 
 /**
- * Created by compindia-fujitsu on 06-12-2017.
+ * Created by rahul-asus on 06-12-2017.
  */
 
 public class CrewModel {
