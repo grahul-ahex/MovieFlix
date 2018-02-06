@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import java.util.ArrayList;
 
 /**
- * Created by compindia-fujitsu on 06-12-2017.
+ * Created by rahul-asus on 06-12-2017.
  */
 
 public class MovieDetailsSectionAdapter extends FragmentPagerAdapter {
