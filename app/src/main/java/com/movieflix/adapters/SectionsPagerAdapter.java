@@ -9,7 +9,7 @@ import android.view.LayoutInflater;
 import com.movieflix.activities.HomeActivity;
 
 /**
- * Created by compindia-fujitsu on 03-12-2017.
+ * Created by rahul-asus on 03-12-2017.
  */
 
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
