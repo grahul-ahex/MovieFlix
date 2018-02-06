@@ -16,7 +16,7 @@ import com.bumptech.glide.request.RequestOptions;
 import com.movieflix.R;
 
 /**
- * Created by compindia-fujitsu on 11-12-2017.
+ * Created by rahul-asus on 11-12-2017.
  */
 
 public class FullScreenImageActivity extends AppCompatActivity {
