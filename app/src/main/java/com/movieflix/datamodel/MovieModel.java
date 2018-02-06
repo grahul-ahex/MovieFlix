@@ -3,7 +3,7 @@ package com.movieflix.datamodel;
 import java.io.Serializable;
 
 /**
- * Created by compindia-fujitsu on 30-11-2017.
+ * Created by rahul-asus on 30-11-2017.
  */
 
 public class MovieModel implements Serializable {
