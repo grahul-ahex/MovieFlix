@@ -25,7 +25,7 @@ import com.movieflix.utils.UrlUtils;
 import java.util.ArrayList;
 
 /**
- * Created by compindia-fujitsu on 30-11-2017.
+ * Created by rahul-asus on 30-11-2017.
  */
 
 public class RecyclerAdapterHome extends RecyclerView.Adapter<RecyclerAdapterHome.MyHolder> {
